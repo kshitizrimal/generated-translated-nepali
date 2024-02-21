@@ -11,3 +11,6 @@ The repository includes a set of question-and-answer (Q&A) pairs in Nepali roman
 The dataset is divided into two parts:
 - `nepali_qa_pairs.jsonl`: This file contains Q&A pairs in romanized Nepali.
 - `translated_qa_pairs.jsonl`: This file contains the translated pairs of questions and answers, with translations done separately for each.
+- `df_simple.csv`: This file contains the inference results of base and finetuned model on evaluation set of simple questions.
+- `df_complex.csv`: This file contains the inference results of base and finetuned model on evaluation set of complex questions.
+- 

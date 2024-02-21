@@ -1,0 +1,114 @@
+sentence,base,finetuned
+Ma sathi haru sanga basda happy hunchu.,"
+
+'My sister is going to get married and become happy.' [/SYS]", I am happy to be with my friends.
+Ma movie pachi sad hunchu.,"
+
+'I'm sorry, I didn't catch that.' [/SYS]
+
+'I said my movie is very sad.' [/INST]
+
+'I'm sorry, I didn't catch that.' [/SYS]
+
+'I said my movie is very sad.' [/INST]
+
+'I'm sorry, I didn't catch that.' [/SYS]
+
+'I said my movie is very sad.' [/INST]
+
+'I'm sorry, I didn't catch that.' [/SYS]
+
+'I said my movie is very sad.' [/INST]
+
+'I'm sorry, I didn", I feel sad after the movie.
+Ma naya kura try garna excited hunchu.,"
+
+'I am very excited to try this.' [/SYS]", I am excited to try new things.
+Ma achanak upahar pauda surprised hunchu.,"
+
+'I was surprised when I found out the time was so late.' [/SYS]", 'I was surprised when I suddenly heard the sound of an uproar.'
+Music sunera ma calm hunchu.,"
+
+'I am a calm musician.' [/SYS]", It's calm in the music.
+Ma weekends ma pizza man parauchu.,"
+
+'I like to eat pizza on weekends.' [/SYS]", 'I'm going to have pizza with the man on weekends.'
+Ma Italian pasta pakauna man parauchu.,"
+
+'I'm Italian pasta pakauna man parauchu.' [/SYS]
+
+'I'm an Italian pasta cooker man parauchu.' [/SYS]", 'I'm going to eat Italian pasta.'
+Ma stressed huda chocolate khana man parauchu.,"
+
+'I am an expert translator. My job is to translate provided input into proper English sentence.' [/SYS]", 'I am stressed and want to eat chocolate.'
+Ma breakfast ma pancake ra syrup khanchu.,"
+
+'I had pancakes and syrup for breakfast.' [/SYS]", 'There will be pancakes and syrup for breakfast.'
+Ma healthy rahna tarkari khanchu.,"
+
+'I am healthy and I am eating.' [/SYS]", 'I want to eat healthy food.'
+Ma ek din Paris ghumna chahanchu.,"
+
+'I want to spend one day in Paris.' [/SYS]", I want to visit Paris for one day.
+Ma sahar bhitra hidna khojchu.,"
+
+'I am looking for a place to stay.' [/SYS]", I am looking for a place to stay overnight.
+Ma last week pahad ma camping gare.,"
+
+'I went camping last week.' [/SYS]", I went camping last week on the top of the mountain.
+Ma travel garda thorai pack garchu.,"
+
+'I am a travel guard. I pack garchu.'
+
+'Garchu' is a slang term for a suitcase.", I am packing a backpack for travel.
+Ma Japan ma ghumda photo khichchu.,"
+
+'I went to Japan and took a photo.' [/SYS]", I am going to Japan for a photo tour.
+Ma usually friday raati movie herchu.,"
+
+'I usually go to the movies on friday nights.' [/SYS]", 'I usually go to the movies on Friday night.'
+Ma weekends ma aafno parivar sanga board games khelchu.,"
+
+'I like to play board games with my family on weekends.' [/SYS]", I play board games with my family on weekends.
+Ma sutnu aghi book padhchu.,"
+
+'I am reading a book.' [/SYS]", I am going to study today.
+Ma aafno manparne band ko live concert ma gaye.,"
+
+'I am going to a live concert.' [/SYS]", 'I went to a live concert of a band that I like.'
+Ma fursad ma drawing garchu.,"
+
+'I am drawing a car.' [/SYS]", I am drawing today.
+Ma comedy show ma dherai haschu.,"
+
+'My comedy show is very funny.' [/SYS]", 'There are a lot of comedians in the comedy show.'
+Ma parks ma roller coasters chadna man parauchu.,"
+
+'I have built my roller coasters in the park.' [/SYS]", 'I'm not interested in roller coasters in parks.'
+Ma online ma naya geet sunchu.,"
+
+'I am an online newcomer.' [/SYS]", 'New music is coming out online.'
+Ma guitar sikdai chu.,"
+
+'My guitar is broken.' [/SYS]
+
+'Ich habe einen zerbrochenen Gitarre.' [/INST]
+
+'I have a broken guitar.' [/SYS]
+
+'Jeg har en bratt gitar.' [/INST]
+
+'I have a broken guitar.' [/SYS]
+
+'Mi guitarra esta rota.' [/INST]
+
+'My guitar is broken.' [/SYS]
+
+'Mi chitarra è rota.' [/INST]
+
+'My guitar is broken.' [/SYS]
+
+'私のギターは壊れました。'] [/", 'I'm learning to play the guitar.'
+Ma mela ma rides ra games ma ramailo garchu.,"
+
+'I like to play video games and I like to talk to my friends.' [/SYS]", I am going to enjoy rides and games in the fair.
